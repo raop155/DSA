@@ -97,8 +97,6 @@ class Graph {
 
     return result
   }
-
-
 }
 
 const g = new Graph();
